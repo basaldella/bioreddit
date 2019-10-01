@@ -12,7 +12,7 @@ co-located with the 2019 Conference on Empirical Methods in Natural Language Pro
 
 ## Embeddings
 
-You can download the embeddings in the [release section](https://github.com/basaldella/bioreddit/releases/tag/v1.0) of this repository on using the table below:
+You can download the embeddings in the [release section](https://github.com/basaldella/bioreddit/releases/tag/v1.0) of this repository or using the links in the table below:
 
 | Embedding | Download Link                                                                                                                                                                                 |
 |-----------|----------------|
