@@ -6,8 +6,9 @@ ELMo ([Peters et al., 2018](https://arxiv.org/abs/1802.05365)),
 and Flair ([Akbik et al., 2018](https://www.aclweb.org/anthology/C18-1139/)).
 
 The embeddings are trained on ~800,000 Reddit posts from over 60 medical-themed communities. 
-The paper describing the training and evaluation process will be presented at the
-Tenth International Workshop on Health Text Mining and Information Analysis (LOUHI 2019), 
+We describe the training and evaluation process of the embeddings in *Basaldella and Collier, 
+[BioReddit: Word Embeddings for User-Generated Biomedical NLP](https://www.aclweb.org/anthology/D19-6205.pdf)*, 
+presented at the Tenth International Workshop on Health Text Mining and Information Analysis (LOUHI 2019), 
 co-located with the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019).
 
 ## Embeddings
