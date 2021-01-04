@@ -21,7 +21,13 @@ You can download the embeddings in the [release section](https://github.com/basa
 | Flair     | [forward](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.flair.forward.pt),   [backward](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.flair.backward.pt)                                                                                                                                                                                                |
 | GloVe 50  | [txt](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.50.txt),   [bin](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.50.bin)                                                                                                                                                                                            |
 | Glove 100 | [txt](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.100.txt),   [bin](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.100.bin)                                                                                                                                                                                           |
-| Glove 200 |  [txt](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.200.txt),   [bin](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.200.bin) |
+| Glove 200 |  [txt](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.200.txt),   [bin](https://github.com/basaldella/bioreddit/releases/download/v1.0/bioreddit.glove.200.bin) 
+|
+| FastText |  See [COMETA](https://github.com/cambridgeltl/cometa) 
+|
+| BERT |  See [COMETA](https://github.com/cambridgeltl/cometa) 
+|
+
 
 ## Code 
 
